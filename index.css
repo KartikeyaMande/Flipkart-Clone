@@ -15,13 +15,16 @@ nav{
     width: 83px;
     padding: 23px;
 }
+
+
+
 nav ul li{
     padding: 0 23px;
     list-style: none;
 
 }
 nav ul{
-    height: 11vh;
+    height: 12vh;
     display: flex;
     justify-content: flex-start;
     align-items: center;
